@@ -14,7 +14,7 @@ class Info : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_info) // Mismo layout que usaba el fragment
 
-        // TextView
+        // TextView del
         findViewById<TextView>(R.id.TextViewInfo).setOnClickListener {
             Toast.makeText(this, "TextView pulsado", Toast.LENGTH_SHORT).show()
         }
