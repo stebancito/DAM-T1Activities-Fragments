@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_activity_botones.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_botones.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_info.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/info.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_circulo.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/circulo.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_boton.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/boton.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_fragment_f_prev_seleccion.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_seleccion.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_baseline_android_24.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/baseline_android_24.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_activity_info.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_info.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_seleccion.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/seleccion.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/menu_nav_menu.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_fav_24.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/fav_24.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_fragment_f_prev_botones.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_botones.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_activity_main.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_fragment_f_prev_textfields.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_textfields.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_activity_listas.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_listas.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_fragment_first.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_fragment_f_prev_info.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_info.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_content_listas.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/content_listas.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_lista.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/lista.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/xml_backup_rules.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_activity_seleccion.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_seleccion.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_activity_text_fields.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_text_fields.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/drawable_form.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/drawable/form.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_fragment_f_bienvenida.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_bienvenida.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_fragment_f_prev_listas.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_listas.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-debug-51:/layout_fragment_second.xml.flat",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_second.xml"
+    }
+]

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="50dp"
+    android:paddingHorizontal="30dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Botones y elementos interactivos"
+            android:textSize="24sp"
+            android:textStyle="bold"/>
+
+        <!-- Button -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button: Botón estándar para realizar acciones."
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+
+        <!-- ImageButton -->
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:text="Button" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ImageButton: Botón con imagen en lugar de texto."
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+
+
+        <!-- Espacio final -->
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/ic_launcher_foreground" /><!-- FloatingActionButton -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FloatingActionButton: Botón de acción flotante para la acción principal."
+            android:textStyle="bold"
+            android:layout_marginTop="16dp"/>
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/floatingActionButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@android:drawable/ic_dialog_email"
+            android:contentDescription="Correo"
+            android:clickable="true"
+            android:focusable="true"
+            app:fabSize="normal"/>
+
+        <View android:layout_height="24dp" android:layout_width="match_parent"/>
+
+    </LinearLayout>
+</ScrollView>

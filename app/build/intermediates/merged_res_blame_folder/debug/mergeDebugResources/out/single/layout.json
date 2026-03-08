@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/fragment_f_prev_seleccion.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_seleccion.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/fragment_f_prev_listas.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_listas.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/content_listas.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/content_listas.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/activity_listas.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_listas.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/activity_seleccion.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_seleccion.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/fragment_f_prev_info.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_info.xml"
+    },
+    {
+        "merged": "com.example.activitiesfragments.app-mergeDebugResources-50:/layout/activity_info.xml",
+        "source": "com.example.activitiesfragments.app-main-53:/layout/activity_info.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/fragment_f_prev_textfields.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_textfields.xml"
+    },
+    {
+        "merged": "com.example.activitiesfragments.app-mergeDebugResources-50:/layout/fragment_f_prev_info.xml",
+        "source": "com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_info.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/activity_text_fields.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_text_fields.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/activity_botones.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/activity_botones.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/fragment_f_prev_botones.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_prev_botones.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/fragment_first.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/fragment_f_bienvenida.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_f_bienvenida.xml"
+    },
+    {
+        "merged": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-mergeDebugResources-50:/layout/fragment_second.xml",
+        "source": "/home/steban/.gradle/daemon/9.1.0/com.example.activitiesfragments.app-main-53:/layout/fragment_second.xml"
+    }
+]

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="100dp"
+    android:paddingHorizontal="30dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Botones"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:drawablePadding="8dp"
+        android:textColor="@color/black"
+        app:drawableStartCompat="@drawable/boton" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Los botones son elementos interactivos que permiten al usuario ejecutar acciones específicas o navegar dentro de la aplicación con un solo toque. Sirven para confirmar formularios, enviar datos o disparar eventos lógicos inmediatos. Es conveniente usarlos cuando se requiere una respuesta clara del sistema tras una intención directa, diferenciando su jerarquía visual (contorneados, planos o elevados) según la importancia de la acción realizada."
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="8dp"
+        android:padding="10dp"
+        android:background="#FF9CFE"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnEjemplo1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="¡Tócame!"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnEjemplo2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Botón con estilo"
+        android:textSize="18sp"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_marginBottom="16dp"
+    app:iconGravity="textStart" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btnEjemplo3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/fav_24"
+    android:contentDescription="Botón flotante"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginBottom="24dp"
+    app:backgroundTint="@color/teal_200" />
+
+    <Button
+        android:id="@+id/btnAbrirActivityB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abrir en nueva activity"
+        android:textSize="16sp"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_marginTop="16dp"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:text="Da click para ver más ejemplos." />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="100dp"
+    android:paddingHorizontal="30dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Listas"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:drawableStartCompat="@drawable/lista"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Las listas permiten mostrar conjuntos de datos de forma ordenada y desplazable. Se utilizan en innumerables aplicaciones: desde menús, galerías, hasta feeds de redes sociales. En Android, los componentes principales son ListView (clásico) y RecyclerView (moderno y eficiente). En la vista detallada podrás explorar ejemplos interactivos."
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="24dp"
+        android:padding="10dp"
+        android:background="#5AE092"
+        android:lineSpacingExtra="4dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewPreview"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginBottom="24dp"
+        android:padding="8dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="vertical" />
+
+    <Button
+        android:id="@+id/btnAbrirActivityL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abrir en nueva activity"
+        android:textSize="16sp"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_marginTop="16dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:text="Da click para ver más ejemplos." />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>
