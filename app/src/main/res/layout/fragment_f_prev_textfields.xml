@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="100dp"
+    android:paddingHorizontal="30dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text Fields"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:drawablePadding="8dp"
+        android:textColor="@color/black"
+        android:drawableStart="@drawable/form"
+    />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Los campos de texto o TextFields son componentes de interfaz que permiten al usuario ingresar y editar texto libre o datos específicos. Sirven para capturar información variable, como nombres, correos o contraseñas, mediante el teclado virtual. Es conveniente usarlos cuando la entrada de datos es impredecible o demasiado extensa para una lista, permitiendo además validar formatos en tiempo real para asegurar que la información sea correcta."
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="8dp"
+        android:padding="10dp"
+        android:background="#ACB8FF"
+        android:layout_marginBottom="24dp"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        app:endIconMode="clear_text">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:hint="😎 ¿Cómo te llamas?"
+            android:textColorHint="@color/black"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        app:endIconMode="clear_text">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="📧 Tu email súper secreto"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:inputType="textEmailAddress" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        app:passwordToggleEnabled="true"
+        app:endIconMode="password_toggle">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="🔑 Contraseña (no la compartas)"
+            android:textColor="@color/black"
+            android:inputType="textPassword"
+            android:textColorHint="@color/black"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/btnAbrirActivitytf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abrir en nueva activity"
+        android:textSize="16sp"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:text="Da click para ver más ejemplos." />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>

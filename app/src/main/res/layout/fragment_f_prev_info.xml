@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="100dp"
+    android:paddingHorizontal="30dp"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Elementos de información"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        app:drawableStartCompat="@drawable/info"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Los elementos de información muestran datos al usuario sin esperar interacción directa. Se utilizan para presentar texto, imágenes o indicadores de progreso. Por ejemplo: etiquetas descriptivas, fotos de perfil, barras de carga, etc. Son fundamentales para comunicar el estado y el contenido de la aplicación."
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="24dp"
+        android:padding="10dp"
+        android:background="#FDD7A8"
+        android:lineSpacingExtra="4dp" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="4dp"
+        app:cardBackgroundColor="#F9F9F9"
+        android:layout_marginBottom="24dp"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/tvEjemplo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Texto informativo"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_marginBottom="16dp"
+                />
+
+            <ImageView
+                android:id="@+id/ivEjemplo"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/baseline_android_24"
+                android:scaleType="centerCrop"
+                android:layout_marginBottom="16dp"
+                android:background="#E0E0E0"
+                android:padding="8dp" />
+
+            <ProgressBar
+                android:id="@+id/progressBarEjemplo"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:progress="60"
+                android:max="100"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cargando... 60%"
+                android:textSize="14sp"
+                android:textColor="@android:color/black" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <Button
+        android:id="@+id/btnAbrirActivityI"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abrir en nueva activity"
+        android:textSize="16sp"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_marginTop="16dp" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:text="Da click para ver más ejemplos." />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>
