@@ -61,42 +61,143 @@ Cada categoría abre una Activity independiente donde se muestran ejemplos funci
 
 ---
 
-## Capturas de pantalla
+# Flujo de la aplicación (Capturas de pantalla)
 
-<details>
-<summary>TextFields</summary>
+A continuación se muestra el flujo principal de navegación dentro de la aplicación, desde la pantalla inicial hasta los ejemplos interactivos de cada tipo de elemento de interfaz.
 
-![TextFields](images/textfields.png)
+---
 
-</details>
+## 1. Pantalla de bienvenida (Home)
 
-<details>
-<summary>Botones</summary>
+La aplicación inicia en la **pantalla principal**, donde se presenta una breve introducción sobre el objetivo de la aplicación.  
+Desde aquí el usuario puede navegar utilizando el **menú inferior** para acceder a cada categoría de elementos de interfaz.
 
-![Botones](images/botones.png)
+<img src="images/bienvenida.png" width="300">
 
-</details>
+---
 
-<details>
-<summary>Elementos de selección</summary>
+# 2. Fragments de previsualización
 
-![Seleccion](images/seleccion.png)
+Cada opción del menú inferior abre un **Fragment de introducción** que explica el tipo de componente de interfaz.
 
-</details>
+Estos fragments incluyen:
 
-<details>
-<summary>Listas</summary>
+- Título del tipo de elemento
+- Explicación breve
+- Un botón **"Abrir en nueva Activity"** para ver ejemplos interactivos
 
-![Listas](images/listas.png)
+---
 
-</details>
+## TextFields (Fragment de introducción)
 
-<details>
-<summary>Elementos de información</summary>
+Este fragment explica el uso de **campos de entrada de texto** en Android.  
+El usuario puede presionar **"Abrir en nueva Activity"** para ver ejemplos funcionales.
 
-![Informacion](images/informacion.png)
+<img src="images/prevTextFields.png" width="300">
 
-</details>
+---
+
+## Botones (Fragment de introducción)
+
+En este fragment se explica el uso de **botones para ejecutar acciones dentro de la aplicación**.
+
+<img src="images/prevBotones.png" width="300">
+
+---
+
+## Elementos de selección (Fragment de introducción)
+
+Presenta los componentes que permiten al usuario **seleccionar opciones o estados**.
+
+<img src="images/prevSel.png" width="300">
+
+---
+
+## Listas (Fragment de introducción)
+
+Describe los componentes utilizados para mostrar **colecciones de datos** dentro de la interfaz.
+
+<img src="images/prevListas.png" width="300">
+
+---
+
+## Elementos de información (Fragment de introducción)
+
+Explica los componentes utilizados para **mostrar información al usuario**.
+
+<img src="images/prevInfo.png" width="300">
+
+---
+
+# 3. Activities con ejemplos interactivos
+
+Al presionar **"Abrir en nueva Activity"**, la aplicación abre una pantalla donde se muestran **ejemplos funcionales de los componentes**.
+
+Cada elemento puede ser presionado y la aplicación mostrará un **mensaje Toast** indicando la acción realizada.
+
+---
+
+## Activity: TextFields
+
+En esta pantalla se presentan ejemplos de **EditText**, donde el usuario puede interactuar con distintos campos de entrada.
+
+<img src="images/textF1.png" width="300">
+
+<img src="images/textF2.png" width="300">
+
+<img src="images/textF3.png" width="300">
+
+---
+
+## Activity: Botones
+
+Esta pantalla muestra distintos tipos de botones disponibles en Android.
+
+- Button  
+- ImageButton  
+- FloatingActionButton  
+
+<img src="images/botones1.png" width="300">
+
+---
+
+## Activity: Elementos de selección
+
+Aquí se muestran componentes utilizados para **seleccionar opciones**.
+
+- CheckBox  
+- RadioButton  
+- Switch  
+
+<img src="images/sel1.png" width="300">
+
+<img src="images/sel2.png" width="300">
+
+<img src="images/sel3.png" width="300">
+
+---
+
+## Activity: Listas
+
+En esta sección se muestran ejemplos de componentes para **visualizar colecciones de datos**.
+
+<img src="images/listas1.png" width="300">
+
+<img src="images/listas2.png" width="300">
+
+---
+
+## Activity: Elementos de información
+
+Presenta componentes utilizados para **mostrar información visual al usuario**.
+
+- TextView  
+- ImageView  
+- ProgressBar  
+
+<img src="images/info1.png" width="300">
+
+<img src="images/info2.png" width="300">
 
 ---
 
