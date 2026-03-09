@@ -1,4 +1,6 @@
-# Aplicación Android: Demostración de Elementos de Interfaz de Usuario
+# Tarea1. Elementos Básicos de Interfaz de Usuario
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ## Índice
 
